@@ -11,6 +11,6 @@
  
   Los datos han sido extraídos en un fichero de texto plano del servicio de [Datos Abiertos del Ayuntamiento de Logroño](http://www.xn--logroo-0wa.es/wps/portal/web/inicio/especiales/fiware/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os_hAc9NQf293QwMDFyB29PT2sDAyMzQ28DbTL8h2VAQA_QzA3Q!!/?WCM_GLOBAL_CONTEXT=/web_es/logrono/especiales/fiware).
 
-  Una vez construída la geometría de los puntos, se ha generado un firchro en formato GeoJSON expresado en coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat) en formato GeoJSON.
+  Una vez construida la geometría de los puntos, se ha generado un fichero en formato GeoJSON expresado en coordenadas geográficas OGC CRS:84 (EPSG:4326 lon-lat) en formato GeoJSON.
 
   Se ha realizado un muestreo aleatorio con observaciones en campo, de la precisión y exactitud geográfica, no habiéndose detectado errores de geolocalización.
