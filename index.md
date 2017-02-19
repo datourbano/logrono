@@ -4,11 +4,11 @@
     - **Servicios**
       1. [Servicio de préstamo de bicicletas](https://github.com/datourbano/logrono/blob/master/movilidad/bici/servicios/26089_bases_bici.md)
     - **Vialidad**
-      1. [Aparcabicis](https://datourbano.github.io/logrono/movilidad/bici/vialidad/26089_aparcabicis)
+      1. [Aparcabicis](https://github.com/datourbano/logrono/blob/master/movilidad/bici/vialidad/26089_aparcabicis.md)
 * ### **SERVICIOS**
   - #### **AGUA**
     - **Fuentes**
-      1. [Fuentes de agua potable](https://datourbano.github.io/logrono/servicios/agua/fuentes/26089_fuentes_agua_potable)
+      1. [Fuentes de agua potable](https://github.com/datourbano/logrono/blob/master/servicios/agua/fuentes/26089_fuentes_agua_potable.md)
 
 
 <br />
