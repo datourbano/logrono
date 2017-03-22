@@ -1,4 +1,4 @@
-# DATO URBANO: Logroño (España)
+# DATO URBANO: Logroño
 * ### **MOVILIDAD**
   - #### **BICI**
     - **Servicios**
@@ -9,7 +9,6 @@
   - #### **AGUA**
     - **Fuentes**
       1. [Fuentes de agua potable](https://github.com/datourbano/logrono/blob/master/servicios/agua/fuentes/26089_fuentes_agua_potable.md)
-
 
 <br />
 ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/twitter_18.png "@datourb") [@datourb](http:twitter.com/datourb)  
