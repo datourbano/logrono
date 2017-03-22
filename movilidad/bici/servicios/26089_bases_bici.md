@@ -1,11 +1,11 @@
-### [datourbano](https://github.com/datourbano): Servicio de préstamo de bicicletas - Logroño (España)
+### [datourbano](https://github.com/datourbano): Servicio de préstamo de bicicletas - Logroño
 
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Logroño (España)](https://datourbano.github.io/logrono)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/ubicacion_18.png) Ciudad: [Logroño](https://datourbano.github.io/logrono)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/origen_18.png) Origen: [Ayuntamiento de Logroño](http://www.logroño.es)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/calendario_18.png) Fecha: 5-02-2017
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/carpeta_18.png) Repositorio: https://github.com/datourbano/logrono/tree/master/movilidad/bici/servicios
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/enlace_18.png) LinkedData: [26089_bases_bici.geojson](https://raw.githubusercontent.com/datourbano/logrono/master/movilidad/bici/servicios/26089_bases_bici.geojson)
-* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Servicio de préstamo de bicicletas - Logroño (España)](https://datourbano.github.io/logrono/movilidad/bici/servicios/26089_bases_bici)
+* ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/mapa_18.png) Visualización: [Servicio de préstamo de bicicletas - Logroño](https://datourbano.github.io/logrono/movilidad/bici/servicios/26089_bases_bici)
 * ![](https://raw.githubusercontent.com/datourbano/simbologia/master/_/notas_18.png) Notas:
 
   (Página web del Ayuntamiento de Logroño)
